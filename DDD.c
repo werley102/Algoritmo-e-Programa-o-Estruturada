@@ -1,11 +1,11 @@
 #include <stdio.h>
 
  int main() {
-   int dia;
+   int ddd;
   printf("Digite o ddd de sua cidade\n");
-   scanf("%d", &dia);
+   scanf("%d", &ddd);
 
-   switch(dia){
+   switch(ddd){
     case 61:
        printf("\nBrasilia");
       break;
